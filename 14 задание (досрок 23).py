@@ -4,4 +4,4 @@ for x in '0123456789ABCDE':
     if ((a+b)%14==0):
         print((a+b)//14)
         
-## bank-ege.ru id: 15839 ## 
+## bank-ege.ru id: 23601 ## 
